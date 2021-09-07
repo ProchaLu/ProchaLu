@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Lukas</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hey! I'm Lukas</h2>
 
 
 <p>Welcome to my Github portfolio! </br> I'm Lukas, Fullstack developer in training @upLeveled.io from Vienna, Austria.
