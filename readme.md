@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on **becoming a Full Stack Developer**
-- 🌱 I’m currently learning **JavaScript, Node.js, React.js**
+- 🌱 I’m currently learning **JavaScript, Node.js, React.js, next.js, TailwindCSS**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: Message me on <a href="https://www.linkedin.com/in/lukas-prochazka-b20a01211/">LinkedIn</a>
 - ⚡ Fun fact: Big Fan of the :zap: emoji
