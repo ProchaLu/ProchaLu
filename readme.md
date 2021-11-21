@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hey! I'm Lukas Prochazka</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hey! I'm Lukas</h2>
 
 
 <p>Welcome to my Github portfolio! </br> I'm Lukas, Full Stack Developer from Vienna, Austria.
