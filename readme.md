@@ -28,7 +28,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-[![ProchaLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProchaLu)](https://github.com/ProchaLu/github-readme-stats)
+[![ProchaLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProchaLu)](https://github.com/ProchaLu/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProchaLu)](https://github.com/ProchaLu/)
+
 
 
 
