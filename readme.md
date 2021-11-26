@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on **becoming a Full Stack Developer**
-- - :doktorhut: &nbsp; Finished the Upleveled.io Full Stack Web Development Bootcamp based in Vienna.
+- 👨‍🎓 Finished the Upleveled.io Full Stack Web Development Bootcamp based in Vienna.
 - 💻 10+ years corporate background in an Insurance Company with focus on Strategy, Project Management, Sales..
 - 🌱 I’m currently learning **JavaScript, TypeScript, PostgresQL, Node.js, React.js, next.js, Emotion, Styled Components, TailwindCSS, Bootstrap**
 - 💬 Ask me about **anything**
@@ -13,8 +13,6 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
-<a href=“https://github.com/ProchaLu”>
-  <img height=“180em” src=“https://github-readme-stats.vercel.app/api?username=ProchaLu&theme=buefy&show_icons=true” />
-  <img height=“180em” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=ProchaLu&theme=buefy&layout=compact” />
-</a>
-<br/>
+<h3>🖥️ Tech Stack</h3>
+
+-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
