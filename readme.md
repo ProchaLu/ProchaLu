@@ -5,9 +5,9 @@
 </p>
 
 - 🔭 I’m currently working for Uplevled.io
-- 👨‍🎓 Finished the Upleveled.io Full Stack Web Development Bootcamp based in Vienna.
+- 👨‍🎓 Fullstack Web Developer @ UpLeveled
 - 💻 10+ years corporate background in an Insurance Company with focus on Strategy, Project Management, Sales..
-- 🌱 I’m currently learning **JavaScript, TypeScript, PostgresQL, Node.js, React.js, next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress**
+- 🌱 I’m currently learning **JavaScript, TypeScript, PostgresQL, Node.js, React.js, next.js, Emotion, Styled Components, TailwindCSS, Bootstrap, Jest, Cypress, Playwright**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: Message me on <a href="https://www.linkedin.com/in/prochazka-lukas/">LinkedIn</a>
 - ⚡ Fun fact: Big Fan of the :zap: emoji
